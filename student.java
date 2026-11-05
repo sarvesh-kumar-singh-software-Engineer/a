@@ -1,5 +1,6 @@
 class student{
-int id;
-  string name;
-  double salary;
+ string name;
+double salary;
+ int id;
+  
 }
